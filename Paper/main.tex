@@ -50,10 +50,7 @@
 
 \begin{abstract}
 %\boldmath
-Orderings systems for restaurants offer a great way to offload work from restaurants, in taking orders, and lessens the burden of customers needing to acquire and interact with a waiter. In this paper we investigate the feasibility of an offline ordering system for restaurants that only uses commodity hardware (smartphones) and communicates entirely over BLE. This stands in contrast to current systems, which either require special hardware at the tables or that the customer uses a smartphone application that functions over the Internet.
-
-Using technology such as BLE and NFC we propose a system to handle the interaction between the restaurant and customer, along with a prototype implementation, \textit{SmartOrder}, that demonstrates the feasibility of the system. SmartOrder shows that common concerns such as the range and throughput of \gls{ble} are either not a concern or at least acceptable. The prototype implementation achieves a range of 71 meters with no obstacles and 12 meters around corners (6 meters on each side). Data throughput is shown to be somewhat slow, but this is acceptable since data transfers happen infrequently. Finally, both of these limitations are addressed with potential solutions.
-
+Bei den meisten Interaktion zwischen Mensch und Maschine werden die Emotionen des Nutzers nicht in Betracht gezogen. Jedoch spielen Emotionen eine wichtige Rolle, den diese Beschreiben wie der Nutzer sich fühlt. Durch das Tracken der Emotion eines Nutzers können die Inhalte der Maschine an die Emotionen des Nutzers angepasst werden. Dies soll dazuführen, dass der Nutzer während der Interaktion mit der Maschine positive Emotionen aufweist. Somit kann durch Emotion Tracking eine Verbesserung der Mensch Maschinen Interaktion herbeigeführt werden. Dieser Artikel erläutert die theoretischen Grundlagen um die Emotionen eines Nutzers zu erkennen und darauf zu reagieren. Des Weiteren werden methodische Mittel beschrieben, wie diese Grundlagen einer Gruppe von Personen im Rahmen eines Workshops vermittelt werden können.
 \end{abstract}
 
 % Note that keywords are not normally used for peerreview papers.
@@ -68,7 +65,12 @@ Using technology such as BLE and NFC we propose a system to handle the interacti
 
 % *** START OF SECTIONS ***--------------------------------------------
 
-\input{Section/introduction}
+\input{Section/Einfuerung}
+\input{Section/Motivation}
+\input{Section/Ziele}
+\input{Section/Umsetzung}
+\input{Section/Fazit}
+\input{Section/Diskussion}
 
 % *** END OF SECTIONS ***---------------------------------------------
 
@@ -217,12 +219,10 @@ Using technology such as BLE and NFC we propose a system to handle the interacti
 % <OR> manually copy in the resultant .bbl file
 % set second argument of \begin to the number of references
 % (used to reserve space for the reference number labels box)
-
 \begin{thebibliography}{1}
 \bibitem{BLEEnergy}
-Siekkinen M., et al. Wireless Communications and Networking Conference Workshops (WCNCW), 2012 IEEE.
-"How Low Energy is Bluetooth Low Energy? Comparative Measurements with ZigBee/802.15.4"
-
+Keum Young Sung: A Suggestion to Improve User-Friendliness Based
+on Monitoring Computer User’s Emotions (2017)
 
 \end{thebibliography}
 
