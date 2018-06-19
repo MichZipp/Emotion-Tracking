@@ -1,12 +1,12 @@
 \documentclass[journal]{IEEEtran}
 \usepackage{blindtext}
 \let\labelindent\relax
-\usepackage[inline]{enumitem}
-\usepackage{enumerate}
+\usepackage{enumitem}
 \usepackage{graphicx}
 \usepackage[acronym]{glossaries}
 \usepackage{subcaption}
 \usepackage[bookmarksopen, bookmarksdepth=2, breaklinks=true]{hyperref}
+\let\labelindent\relax
 
 % *** GRAPHICS RELATED PACKAGES ***
 %
@@ -30,7 +30,15 @@
  Marius.Becherer@hs-furtwangen.de & Michael.Zipperle@hs-furtwangen.de \\
 \end{tabular}
 \end{center}}%
-
+        
+%\author{Christian Laustsen, \textit{20176018},
+%        Anders Rikvold, \textit{20176009},
+%        and Michael Zipperle, \textit{20176059}}% <-this % stops a space
+%\thanks{M. Shell is with the Department
+%of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta,
+%GA, 30332 USA e-mail: (see http://www.michaelshell.org/contact.html).}% <-this % stops a space
+%\thanks{J. Doe and J. Doe are with Anonymous University.}% <-this % stops a space
+%\thanks{Manuscript received April 19, 2005; revised January 11, 2007.}}
 
 % The paper headers
 \markboth{Hochschule Furtwangen - Ergonomie, June 2018}%
@@ -50,18 +58,16 @@ Bei den meisten Interaktion zwischen Mensch und Maschine werden die Emotionen de
 %IEEEtran, journal, \LaTeX, paper, template.
 %\end{IEEEkeywords}
 
-% For peerreview papers, this command inserts a page break and
+% For peerreview papers, this IEEEtran command inserts a page break and
 % creates the second title. It will be ignored for other modes.
 \IEEEpeerreviewmaketitle
 
 
 % *** START OF SECTIONS ***--------------------------------------------
 
-\input{Sections/Einfuerung}
-\input{Sections/Motivation}
-\input{Sections/Ziele}
-\input{Sections/Umsetzung_Methoden}
-\input{Sections/Umsetzung_Anwendungsfaelle}
+\include{Sections/Einfuerung}
+\input{Sections/Planung}
+%\input{Sections/Durchfuehrung}
 \input{Sections/Fazit}
 \input{Sections/Diskussion}
 

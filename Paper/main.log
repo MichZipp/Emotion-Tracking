@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.19)  14 JUN 2018 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.19)  19 JUN 2018 16:20
 entering extended mode
 **./main.tex
 (main.tex
@@ -563,11 +563,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip61
 )
-(main.aux
-
-LaTeX Warning: Label `fig:microsoftgestenerkennung' multiply defined.
-
-)
+(main.aux (Sections/Einfuerung.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -651,6 +647,13 @@ Missing character: There is no √ in font ptmb7t!
 Missing character: There is no ∂ in font ptmb7t!
 Missing character: There is no √ in font ptmb7t!
 Missing character: There is no º in font ptmb7t!
+ [1{C:/Users/Marius Becherer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+]
+\openout2 = `Sections/Einfuerung.aux'.
+
  (Sections/Einfuerung.tex
 Missing character: There is no √ in font ptmrc7t!
 Missing character: There is no º in font ptmrc7t!
@@ -676,182 +679,19 @@ Missing character: There is no √ in font ptmr7t!
 Missing character: There is no º in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-) (Sections/Motivation.tex
-
-! Package caption Error: \subcaption outside float.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \subcaption
-               {Einleitung}\label{Einleitung}
-If you do not understand this error, please take a closer look
-at the documentation of the `caption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-
-! Package caption Error: \subcaption outside float.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \subcaption
-               {Workshop Aufgabe}\label{Workshop Aufgabe}
-If you do not understand this error, please take a closer look
-at the documentation of the `caption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-<Pictures/Microsoft_Gestenerkennung.jpg, id=67, 899.61093pt x 347.79938pt>
-File: Pictures/Microsoft_Gestenerkennung.jpg Graphic file (type jpg)
-
-<use Pictures/Microsoft_Gestenerkennung.jpg>
-Package pdftex.def Info: Pictures/Microsoft_Gestenerkennung.jpg used on input l
-ine 13.
-(pdftex.def)             Requested size: 227.74333pt x 88.04817pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (Sections/Ziele.tex) (Sections/Umsetzung_Methoden.tex
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-
-Underfull \vbox (badness 7030) has occurred while \output is active []
-
- [1{C:/Users/Marius Becherer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no Ñ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
 Missing character: There is no § in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-File: Pictures/Microsoft_Gestenerkennung.jpg Graphic file (type jpg)
 
-<use Pictures/Microsoft_Gestenerkennung.jpg>
-Package pdftex.def Info: Pictures/Microsoft_Gestenerkennung.jpg used on input l
-ine 18.
-(pdftex.def)             Requested size: 227.74333pt x 88.04817pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
 ! Missing number, treated as zero.
 <to be read again> 
                    \enit@shl 
-l.30 	\item
-            Gruppengr√∂√üe: 4 Personen
+l.11 	\item
+            Was ist Emotionen?
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -859,8 +699,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \labelindent 
-l.30 	\item
-            Gruppengr√∂√üe: 4 Personen
+l.11 	\item
+            Was ist Emotionen?
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -868,8 +708,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \labelindent 
-l.30 	\item
-            Gruppengr√∂√üe: 4 Personen
+l.11 	\item
+            Was ist Emotionen?
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -880,15 +720,15 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! You can't use `\relax' after \advance.
 \enit@calcleft ...calcwidth \advance \labelindent 
                                                   \dimen@ \or \labelwidth \d...
-l.30 	\item
-            Gruppengr√∂√üe: 4 Personen
+l.11 	\item
+            Was ist Emotionen?
 I'm forgetting what you said and not changing anything.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.30 	\item
-            Gruppengr√∂√üe: 4 Personen
+l.11 	\item
+            Was ist Emotionen?
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -896,8 +736,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.30 	\item
-            Gruppengr√∂√üe: 4 Personen
+l.11 	\item
+            Was ist Emotionen?
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -908,1195 +748,44 @@ two letters. (See Chapter 27 of The TeXbook.)
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no ∂ in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no ∂ in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
 Missing character: There is no ü in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-
-Underfull \hbox (badness 1796) in paragraph at lines 38--39
-\OT1/ptm/m/n/10 prsen-tiert wer-den kon-nten. Dabei wur-den die Meth-o-den
- []
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.41 	\item
-            √úberwachung von K√∂rperfunktionen
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.41 	\item
-            √úberwachung von K√∂rperfunktionen
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.41 	\item
-            √úberwachung von K√∂rperfunktionen
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.41 	\item
-            √úberwachung von K√∂rperfunktionen
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.41 	\item
-            √úberwachung von K√∂rperfunktionen
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.41 	\item
-            √úberwachung von K√∂rperfunktionen
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.43 		\item
-             Herzschlag
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.43 		\item
-             Herzschlag
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.43 		\item
-             Herzschlag
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.43 		\item
-             Herzschlag
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.43 		\item
-             Herzschlag
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.43 		\item
-             Herzschlag
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-) (Sections/Umsetzung_Anwendungsfaelle.tex
-Missing character: There is no √ in font ptmrc7t!
-Missing character: There is no § in font ptmrc7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
- [2 <./Pictures/Microsoft_Gestenerkennung.jpg>]
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.7 	\item
-           Gesichtsausdruck
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.7 	\item
-           Gesichtsausdruck
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.7 	\item
-           Gesichtsausdruck
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.7 	\item
-           Gesichtsausdruck
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.7 	\item
-           Gesichtsausdruck
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.7 	\item
-           Gesichtsausdruck
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.13 	\item
-            Gruppengr√∂√üe: 4 Personen
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.13 	\item
-            Gruppengr√∂√üe: 4 Personen
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.13 	\item
-            Gruppengr√∂√üe: 4 Personen
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.13 	\item
-            Gruppengr√∂√üe: 4 Personen
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.13 	\item
-            Gruppengr√∂√üe: 4 Personen
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.13 	\item
-            Gruppengr√∂√üe: 4 Personen
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/ptm/m/n/10 Die Grup-pen wur-den aufge-fordert, fol-gende Auf-gabe
- []
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ü in font ptmr7t!
-! Misplaced alignment tab character &.
-l.15 	\item Arbeitsverfahren: Recherche &
-                                          Entwicklung
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.18 		\item
-             Recherchieren Sie nach bestehenden Anwendungsf√§llen, bei denen...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.18 		\item
-             Recherchieren Sie nach bestehenden Anwendungsf√§llen, bei denen...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.18 		\item
-             Recherchieren Sie nach bestehenden Anwendungsf√§llen, bei denen...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.18 		\item
-             Recherchieren Sie nach bestehenden Anwendungsf√§llen, bei denen...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.18 		\item
-             Recherchieren Sie nach bestehenden Anwendungsf√§llen, bei denen...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.18 		\item
-             Recherchieren Sie nach bestehenden Anwendungsf√§llen, bei denen...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.30 	\item
-            Schmerzerkennung von Patienten im Krankenhaus
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.30 	\item
-            Schmerzerkennung von Patienten im Krankenhaus
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.30 	\item
-            Schmerzerkennung von Patienten im Krankenhaus
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.30 	\item
-            Schmerzerkennung von Patienten im Krankenhaus
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.30 	\item
-            Schmerzerkennung von Patienten im Krankenhaus
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.30 	\item
-            Schmerzerkennung von Patienten im Krankenhaus
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.37 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.37 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.37 	\item
-            Vorteile:
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.37 	\item
-            Vorteile:
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.37 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.37 	\item
-            Vorteile:
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.39 		\item
-             In den meisten Maschinen befindet sich heutzutage eine Webcam, ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.39 		\item
-             In den meisten Maschinen befindet sich heutzutage eine Webcam, ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.39 		\item
-             In den meisten Maschinen befindet sich heutzutage eine Webcam, ...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.39 		\item
-             In den meisten Maschinen befindet sich heutzutage eine Webcam, ...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.39 		\item
-             In den meisten Maschinen befindet sich heutzutage eine Webcam, ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.39 		\item
-             In den meisten Maschinen befindet sich heutzutage eine Webcam, ...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.43 		\item
-             Ein Mensch kann seinen Gesichtsausdruck einfach manipulieren, i...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.43 		\item
-             Ein Mensch kann seinen Gesichtsausdruck einfach manipulieren, i...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.43 		\item
-             Ein Mensch kann seinen Gesichtsausdruck einfach manipulieren, i...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.43 		\item
-             Ein Mensch kann seinen Gesichtsausdruck einfach manipulieren, i...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.43 		\item
-             Ein Mensch kann seinen Gesichtsausdruck einfach manipulieren, i...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.43 		\item
-             Ein Mensch kann seinen Gesichtsausdruck einfach manipulieren, i...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.50 	\item
-            Alexa Bestellservice: Durch die Analyse der Sprachinformationen ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.50 	\item
-            Alexa Bestellservice: Durch die Analyse der Sprachinformationen ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.50 	\item
-            Alexa Bestellservice: Durch die Analyse der Sprachinformationen ...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.50 	\item
-            Alexa Bestellservice: Durch die Analyse der Sprachinformationen ...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.50 	\item
-            Alexa Bestellservice: Durch die Analyse der Sprachinformationen ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.50 	\item
-            Alexa Bestellservice: Durch die Analyse der Sprachinformationen ...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no Ñ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-
-Underfull \hbox (badness 3579) in paragraph at lines 52--53
-[]\OT1/ptm/m/n/10 Notruferkennung: Es gibt Flle, bei de-nen Notrufe
- []
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.58 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.58 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.58 	\item
-            Vorteile:
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.58 	\item
-            Vorteile:
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.58 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.58 	\item
-            Vorteile:
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.60 		\item
-             Diese Methode l√§sst sich meist ohne zus√§tzliche Hardware eins...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.60 		\item
-             Diese Methode l√§sst sich meist ohne zus√§tzliche Hardware eins...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.60 		\item
-             Diese Methode l√§sst sich meist ohne zus√§tzliche Hardware eins...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.60 		\item
-             Diese Methode l√§sst sich meist ohne zus√§tzliche Hardware eins...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.60 		\item
-             Diese Methode l√§sst sich meist ohne zus√§tzliche Hardware eins...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.60 		\item
-             Diese Methode l√§sst sich meist ohne zus√§tzliche Hardware eins...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.64 		\item
-             Auch die Sprachinformation lassen sich einfach manipulieren. Ei...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.64 		\item
-             Auch die Sprachinformation lassen sich einfach manipulieren. Ei...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.64 		\item
-             Auch die Sprachinformation lassen sich einfach manipulieren. Ei...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.64 		\item
-             Auch die Sprachinformation lassen sich einfach manipulieren. Ei...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.64 		\item
-             Auch die Sprachinformation lassen sich einfach manipulieren. Ei...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.64 		\item
-             Auch die Sprachinformation lassen sich einfach manipulieren. Ei...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.72 	\item
-            Schlafanalyse: Durch das messen der Hauttemperatur w√§hrend des ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.72 	\item
-            Schlafanalyse: Durch das messen der Hauttemperatur w√§hrend des ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.72 	\item
-            Schlafanalyse: Durch das messen der Hauttemperatur w√§hrend des ...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.72 	\item
-            Schlafanalyse: Durch das messen der Hauttemperatur w√§hrend des ...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.72 	\item
-            Schlafanalyse: Durch das messen der Hauttemperatur w√§hrend des ...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.72 	\item
-            Schlafanalyse: Durch das messen der Hauttemperatur w√§hrend des ...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-[3]
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.77 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.77 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.77 	\item
-            Vorteile:
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.77 	\item
-            Vorteile:
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.77 	\item
-            Vorteile:
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.77 	\item
-            Vorteile:
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.79 		\item
-             Hauttemperatur Sensoren sind billig.
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.79 		\item
-             Hauttemperatur Sensoren sind billig.
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.79 		\item
-             Hauttemperatur Sensoren sind billig.
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.79 		\item
-             Hauttemperatur Sensoren sind billig.
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.79 		\item
-             Hauttemperatur Sensoren sind billig.
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.79 		\item
-             Hauttemperatur Sensoren sind billig.
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \enit@shl 
-l.85 		\item
-             Meist ist zus√§tzliche Hardware n√∂tig, die an der Haut einer P...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \labelindent 
-l.85 		\item
-             Meist ist zus√§tzliche Hardware n√∂tig, die an der Haut einer P...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \labelindent 
-l.85 		\item
-             Meist ist zus√§tzliche Hardware n√∂tig, die an der Haut einer P...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! You can't use `\relax' after \advance.
-\enit@calcleft ...calcwidth \advance \labelindent 
-                                                  \dimen@ \or \labelwidth \d...
-l.85 		\item
-             Meist ist zus√§tzliche Hardware n√∂tig, die an der Haut einer P...
-I'm forgetting what you said and not changing anything.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.85 		\item
-             Meist ist zus√§tzliche Hardware n√∂tig, die an der Haut einer P...
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.85 		\item
-             Meist ist zus√§tzliche Hardware n√∂tig, die an der Haut einer P...
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
 Missing character: There is no ü in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no ∂ in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-) (Sections/Fazit.tex
-<Pictures/Fazit_Grafik.jpg, id=112, 601.4972pt x 249.93375pt>
+Missing character: There is no º in font ptmr7t!
+) [2
+
+
+] (Sections/Planung.tex) (Sections/Fazit.tex
+<Pictures/Fazit_Grafik.jpg, id=53, 601.4972pt x 249.93375pt>
 File: Pictures/Fazit_Grafik.jpg Graphic file (type jpg)
 
 <use Pictures/Fazit_Grafik.jpg>
 Package pdftex.def Info: Pictures/Fazit_Grafik.jpg used on input line 4.
 (pdftex.def)             Requested size: 227.74333pt x 94.63257pt.
 ) (Sections/Diskussion.tex
+
+LaTeX Warning: Reference `Umsetzung_Anwendungsfaelle' on page 3 undefined on in
+put line 5.
+
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no § in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
@@ -2127,6 +816,10 @@ Missing character: There is no √ in font ptmr7t!
 Missing character: There is no § in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no º in font ptmr7t!
+
+LaTeX Warning: Reference `Umsetzung_Anwendungsfaelle_Ergebnisse' on page 3 unde
+fined on input line 11.
+
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no ü in font ptmr7t!
 Missing character: There is no √ in font ptmr7t!
@@ -2156,46 +849,47 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 1371) in paragraph at lines 231--233
+Underfull \hbox (badness 1371) in paragraph at lines 229--231
 []\OT1/ptm/m/n/8 "Microsoft Azure Cog-ni-tive Ser-vices: Emo-tion-serken-nung".
  []$https : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--233
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
 \OT1/ptm/m/n/8 azure . microsoft . com / de-[]de / services / cognitive-[]servi
 ces / face / #recognition$[].
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
-[4 <./Pictures/Fazit_Grafik.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
- (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 262.
+[3
+
+ <./Pictures/Fazit_Grafik.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 262.
+ (main.aux (Sections/Einfuerung.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 262.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 262.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 31E615369A57BA9A8F3FA0BF1366346C;980.
+(rerunfilecheck)             Checksum: 24F3E25DE6151854E28580C001FE892C;470.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11935 strings out of 493333
- 186521 string characters out of 3139162
- 341649 words of memory out of 3000000
- 15227 multiletter control sequences out of 15000+200000
- 39542 words of font info for 80 fonts, out of 3000000 for 9000
+ 11884 strings out of 493333
+ 185569 string characters out of 3139162
+ 336791 words of memory out of 3000000
+ 15197 multiletter control sequences out of 15000+200000
+ 40422 words of font info for 80 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 59i,7n,94p,1995b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,7n,94p,1995b,343s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 184917 bytes).
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (3 pages, 101118 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
