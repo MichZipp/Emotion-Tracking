@@ -3,3 +3,8 @@
 /Paper/main.aux
 /Paper/IEEEtran_HOWTO.pdf
 /Paper/main.out
+/Paper/*.out
+/Paper/*.log
+/Paper/*.aux
+/Paper/*.gz
+/Paper/Sections/*.log
