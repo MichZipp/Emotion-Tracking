@@ -1,22 +1,21 @@
 \documentclass[journal]{IEEEtran}
+\usepackage[utf8]{inputenc}
 \usepackage{blindtext}
 \let\labelindent\relax
-\usepackage{enumitem}
+\usepackage[inline]{enumitem}
+%\usepackage{enumerate}
 \usepackage{graphicx}
-\usepackage[acronym]{glossaries}
+\usepackage[shortcuts,acronym]{glossaries}
 \usepackage{subcaption}
 \usepackage[bookmarksopen, bookmarksdepth=2, breaklinks=true]{hyperref}
-\let\labelindent\relax
 
 % *** GRAPHICS RELATED PACKAGES ***
 %
 \ifCLASSINFOpdf
 \else
 \fi
-
-
-\newacronym{ble}{BLE}{Bluetooth Low Energy}
-
+\makeglossaries
+\newacronym{HMI}{HMI}{Human Machine Interface}
 \hyphenation{op-tical net-works semi-conduc-tor}
 
 
@@ -65,11 +64,12 @@ Bei den meisten Interaktion zwischen Mensch und Maschine werden die Emotionen de
 
 % *** START OF SECTIONS ***--------------------------------------------
 
-\include{Sections/Einfuerung}
+\input{Sections/Einfuerung}
 \input{Sections/Planung}
-%\input{Sections/Durchfuehrung}
-\input{Sections/Fazit}
-\input{Sections/Diskussion}
+\input{Sections/Durchfuehrung}
+\input{Sections/Evaluation}
+
+
 
 % *** END OF SECTIONS ***---------------------------------------------
 
