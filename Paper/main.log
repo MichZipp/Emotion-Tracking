@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700 64-bit) (preloaded format=pdflatex 2018.5.29)  25 JUN 2018 21:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700 64-bit) (preloaded format=pdflatex 2018.5.29)  25 JUN 2018 22:17
 entering extended mode
 **./main.tex
 (main.tex
@@ -539,73 +539,46 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip61
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box35
-\beforetitleunit=\skip62
-\aftertitleunit=\skip63
-\ttl@plus=\dimen152
-\ttl@minus=\dimen153
-\ttl@toksa=\toks36
-\titlewidth=\dimen154
-\titlewidthlast=\dimen155
-\titlewidthfirst=\dimen156
-
-! Undefined control sequence.
-<argument> \subparagraph 
-                         
-l.1291 \ttl@extract\subparagraph
-                                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Package titlesec Warning: Non standard sectioning command detected
-(titlesec)                Using default spacing and no format.
-
-)
 \glswrite=\write3
 \glo@main@file=\write4
 \openout4 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 18.
+Package glossaries Info: Writing glossary file main.glo on input line 16.
 \glo@acronym@file=\write5
 \openout5 = `main.acn'.
 
-Package glossaries Info: Writing glossary file main.acn on input line 18.
- (main.aux)
+Package glossaries Info: Writing glossary file main.acn on input line 16.
+
+(main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count164
-\scratchdimen=\dimen157
-\scratchbox=\box36
+\scratchdimen=\dimen152
+\scratchbox=\box35
 \nofMPsegments=\count165
 \nofMParguments=\count166
-\everyMPshowfont=\toks37
+\everyMPshowfont=\toks36
 \MPscratchCnt=\count167
-\MPscratchDim=\dimen158
+\MPscratchDim=\dimen153
 \MPnumerator=\count168
 \makeMPintoPDFobject=\count169
-\everyMPtoPDFconversion=\toks38
+\everyMPtoPDFconversion=\toks37
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -622,8 +595,8 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring OFF on input line 23.
+\AtBeginShipoutBox=\box36
+Package hyperref Info: Link coloring OFF on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -633,15 +606,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count170
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
 
 (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 49.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 47.
  (Sections/Einfuerung.tex) (Sections/Planung.tex [1{C:/Users/Michael/AppData/Lo
 cal/MiKTeX/2.9/pdftex/config/pdftex.map}
 
@@ -664,12 +637,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<Pictures/wiki_kaffee.png, id=89, 451.6875pt x 147.55125pt>
+<Pictures/wiki_kaffee.png, id=90, 451.6875pt x 147.55125pt>
 File: Pictures/wiki_kaffee.png Graphic file (type png)
 <use Pictures/wiki_kaffee.png>
 Package pdftex.def Info: Pictures/wiki_kaffee.png  used on input line 20.
 (pdftex.def)             Requested size: 253.04987pt x 82.66414pt.
-<Pictures/bizbuzz.png, id=91, 411.03563pt x 158.84344pt>
+<Pictures/bizbuzz.png, id=92, 411.03563pt x 158.84344pt>
 File: Pictures/bizbuzz.png Graphic file (type png)
 <use Pictures/bizbuzz.png>
 Package pdftex.def Info: Pictures/bizbuzz.png  used on input line 27.
@@ -677,13 +650,16 @@ Package pdftex.def Info: Pictures/bizbuzz.png  used on input line 27.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Context_Mensch.png, id=93, 420.97275pt x 230.0595pt>
+<Pictures/Context_Mensch.png, id=94, 420.97275pt x 230.0595pt>
 File: Pictures/Context_Mensch.png Graphic file (type png)
 <use Pictures/Context_Mensch.png>
 Package pdftex.def Info: Pictures/Context_Mensch.png  used on input line 36.
 (pdftex.def)             Requested size: 253.04987pt x 138.2895pt.
-[2 <./Pictures/wiki_kaffee.png>]) (Sections/Ziele.tex
-<Pictures/impliziter_expliziter_Kanal.png, id=111, 548.80031pt x 272.51813pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (Sections/Ziele.tex [2 <./Pictures/wiki_kaffee.png>]
+<Pictures/impliziter_expliziter_Kanal.png, id=115, 548.80031pt x 272.51813pt>
 File: Pictures/impliziter_expliziter_Kanal.png Graphic file (type png)
 <use Pictures/impliziter_expliziter_Kanal.png>
 Package pdftex.def Info: Pictures/impliziter_expliziter_Kanal.png  used on inpu
@@ -695,7 +671,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) (Sections/Umsetzung_Methoden.tex [3 <./Pictures/bizbuzz.png> <./Pictures/Cont
 ext_Mensch.png> <./Pictures/impliziter_expliziter_Kanal.png>]
-<Pictures/Microsoft_Gestenerkennung.jpg, id=127, 899.61093pt x 347.79938pt>
+<Pictures/Microsoft_Gestenerkennung.jpg, id=134, 899.61093pt x 347.79938pt>
 File: Pictures/Microsoft_Gestenerkennung.jpg Graphic file (type jpg)
 <use Pictures/Microsoft_Gestenerkennung.jpg>
 Package pdftex.def Info: Pictures/Microsoft_Gestenerkennung.jpg  used on input 
@@ -703,8 +679,13 @@ line 17.
 (pdftex.def)             Requested size: 227.74333pt x 88.04817pt.
 )
 (Sections/Umsetzung_Anwendungsfaelle.tex
-Underfull \hbox (badness 4454) in paragraph at lines 3--5
-\OT1/ptm/m/n/10 Mas-chine zu verbessern. Dazu sollen An-wen-dungsf[]alle
+Underfull \hbox (badness 1735) in paragraph at lines 3--5
+\OT1/ptm/m/n/10 eines Nutzers genutzt wer-den kann, um die In-ter-ak-tion
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 3--5
+\OT1/ptm/m/n/10 zu einer in-ter-ak-tiven Auf-gabe mit den Teil-nehmern des
  []
 
 
@@ -713,8 +694,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 25--26
-[]\OT1/ptm/m/n/10 Nach Bear-beitung der Auf-gabe, wur-den jede Gruppe
+Underfull \hbox (badness 4634) in paragraph at lines 25--26
+ []\OT1/ptm/m/it/10 Ergebnisse: [] \OT1/ptm/m/n/10 Nach Bear-beitung der Auf-ga
+be, wur-den
  []
 
 
@@ -727,59 +709,56 @@ Underfull \hbox (badness 2818) in paragraph at lines 32--33
 []\OT1/ptm/m/n/10 Erkennung von krim-inellen Machen-schaften eines
  []
 
-[4 <./Pictures/Microsoft_Gestenerkennung.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(Sections/Fazit.tex
-<Pictures/Fazit_Grafik.jpg, id=143, 601.4972pt x 249.93375pt>
+[4 <./Pictures/Microsoft_Gestenerkennung.jpg>]) (Sections/Fazit.tex
+<Pictures/Fazit_Grafik.jpg, id=153, 601.4972pt x 249.93375pt>
 File: Pictures/Fazit_Grafik.jpg Graphic file (type jpg)
 <use Pictures/Fazit_Grafik.jpg>
 Package pdftex.def Info: Pictures/Fazit_Grafik.jpg  used on input line 7.
 (pdftex.def)             Requested size: 227.74333pt x 94.63257pt.
-) (Sections/Diskussion.tex
+)
+(Sections/Diskussion.tex
 Underfull \hbox (badness 2529) in paragraph at lines 12--1
 \OT1/ptm/m/n/10 Eingabe unter Ber[]ucksichtigung der Emo-tio-nen reagiert.
  []
 
 [5 <./Pictures/Fazit_Grafik.jpg>])) (Sections/Evaluation.tex)
-Underfull \hbox (badness 3735) in paragraph at lines 250--252
+Underfull \hbox (badness 3735) in paragraph at lines 248--250
 []\OT1/ptm/m/n/8 Luke Dormehl: AI as-sis-tants will soon rec-og-nize and re-spo
 nd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--252
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
 []$\OT1/ptm/m/n/8 https : / / www . digitaltrends . com / cool-[]tech / aectiv
 a-[]emotion-[]in-[]voice/$[].
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--260
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
 []\OT1/ptm/m/n/8 Affectiva Emo-tion SDK: []$https : / / www . aectiva . com / 
 product /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 []\OT1/ptm/m/n/8 "Wikipedia Kaf-fee". []$https : / / de . wikipedia . org / wik
 i / Kaee$[] Zuletzt
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
 []\OT1/ptm/m/n/8 Was sind Emo-tio-nen?: []$https : / / www . brgdomath . com / 
 psychologie /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
 \OT1/ptm/m/n/8 motive-[]und-[]emotionen-[]tk-[]4 / emotionen-[]bsp-[]angst/$[] 
 Zuletzt abgerufen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 280--282
 \OT1/ptm/m/n/8 azure . microsoft . com / de-[]de / services / cognitive-[]servi
 ces / face / #recognition$[].
  []
@@ -789,33 +768,31 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 316.
-[7
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 316.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 316.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 316.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7DC8273440AE8B035C855B0AEFF1A9B8;839.
+(rerunfilecheck)             Checksum: 1FAB07E526229F2663F178D3A1BF64A3;841.
  ) 
 Here is how much of TeX's memory you used:
- 12184 strings out of 492976
- 188629 string characters out of 3135985
- 349418 words of memory out of 3000000
- 15782 multiletter control sequences out of 15000+200000
+ 11938 strings out of 492976
+ 185532 string characters out of 3135985
+ 345543 words of memory out of 3000000
+ 15531 multiletter control sequences out of 15000+200000
  39542 words of font info for 80 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 59i,7n,94p,1995b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,7n,94p,1995b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (7 pages, 273345 bytes).
+Output written on main.pdf (6 pages, 273713 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
  143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
